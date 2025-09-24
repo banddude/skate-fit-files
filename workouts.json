@@ -221,9 +221,9 @@
         "skateboarding_benefit": "improves board control and landing stability",
         "json_file": "weighted_single_leg_balance_hold.json",
         "video_file": "weighted_single_leg_balance_hold",
-        "beginner": "20 s/side (2×5 lb)",
-        "intermediate": "30 s/side (2×10 lb)",
-        "advanced": "45 s/side (2×15 lb)"
+        "beginner": "20 s/side (2\u00d75 lb)",
+        "intermediate": "30 s/side (2\u00d710 lb)",
+        "advanced": "45 s/side (2\u00d715 lb)"
       },
       {
         "section": "Cool-down",
@@ -307,6 +307,243 @@
     ]
   },
   {
+    "name": "Pop Power",
+    "icon": "bolt.fill",
+    "color": "yellow",
+    "exercises": [
+      {
+        "section": "Warm-up",
+        "move": "Squat + calf raise hold",
+        "description": "Deep squat position with calf raise hold, building foundational power for explosive skateboarding movements",
+        "detailed_description": "This compound exercise combines squat strength with calf endurance, directly targeting the muscles used in ollie pop mechanics. Begin in a squat position with feet hip-width apart, lowering to approximately 90 degrees while maintaining chest up and weight evenly distributed. From this position, rise up onto your toes and hold the calf raise while maintaining the squat depth. This exercise builds the precise muscle coordination and strength needed for explosive skateboard pops, where the calves provide the initial snap while the legs drive the board upward. The sustained hold develops the time under tension strength crucial for powerful ollies and jump tricks. The combination teaches your body to generate force from the ground up, mimicking the exact mechanics of popping a skateboard. Focus on maintaining proper squat form while maximizing the calf raise height to build the explosive power transfer essential for advanced trick progression.",
+        "target_muscles": [
+          "quadriceps",
+          "glutes",
+          "calves",
+          "core"
+        ],
+        "equipment": "none",
+        "exercise_type": "strength",
+        "duration_per_rep": "15 second hold",
+        "skateboarding_benefit": "builds explosive pop power for ollies and technical tricks",
+        "json_file": "squat_calf_raise_hold.json",
+        "video_file": "squat_calf_raise_hold",
+        "beginner": "10 sec hold (2 rounds)",
+        "intermediate": "12 sec hold (2 rounds)",
+        "advanced": "15 sec hold (3 rounds)"
+      },
+      {
+        "section": "Warm-up",
+        "move": "Banded side jumps",
+        "description": "Lateral jumps with resistance band, mimicking the side-to-side popping motion used in skateboard control",
+        "detailed_description": "This dynamic exercise replicates the lateral explosive movements essential for board manipulation and trick execution. Begin with a resistance band around your ankles, then perform explosive side-to-side jumps while maintaining the band tension throughout the movement. The lateral jumping motion directly mimics the weight shift and explosive power needed for skateboard pops, kickflips, and heel flips where you must generate force while maintaining board control. The band resistance adds challenge to both the takeoff and landing phases, building the hip abductor strength and lateral stability crucial for precise board manipulation. This exercise develops the quick directional changes and explosive lateral power that separate advanced skaters from beginners. The movement pattern also improves proprioception and balance reactions essential for catching tricks and maintaining control during complex maneuvers. Focus on explosive takeoffs and controlled landings while maintaining constant band tension to maximize the skateboarding-specific benefits.",
+        "target_muscles": [
+          "hip abductors",
+          "glutes",
+          "calves",
+          "core"
+        ],
+        "equipment": "resistance band",
+        "exercise_type": "strength",
+        "duration_per_rep": "explosive jump with controlled landing",
+        "skateboarding_benefit": "develops lateral explosive power for trick execution and board manipulation",
+        "json_file": "banded_side_jumps.json",
+        "video_file": "banded_side_jumps",
+        "beginner": "15 total jumps (2 rounds)",
+        "intermediate": "18 total jumps (2 rounds)",
+        "advanced": "20 total jumps (3 rounds)"
+      },
+      {
+        "section": "Main",
+        "move": "Isolated foot banded hi-knee pop-ups",
+        "description": "Single-leg knee drive with band resistance, directly replicating the ollie motion and developing unilateral explosive power",
+        "detailed_description": "This highly specific exercise isolates the exact movement pattern and muscle activation sequence used in ollie execution. Begin standing with a resistance band around your feet, then explosively drive one knee upward to hip height while the opposite leg provides stability and fights against the band resistance. The movement precisely replicates the knee drive component of an ollie while building the hip flexor strength and single-leg stability essential for board control. This exercise is crucial for developing the unilateral power and coordination needed for consistent trick execution, as most skateboarding tricks require asymmetrical muscle activation and precise timing between both legs. The band resistance challenges both the lifting and lowering phases while improving the rapid muscle firing patterns essential for quick trick execution. The isolated nature allows you to focus on perfecting the movement quality and power output of each leg independently, addressing any strength imbalances that could affect trick consistency. Focus on explosive upward drive followed by controlled descent to maximize both power and control development.",
+        "target_muscles": [
+          "hip flexors",
+          "core",
+          "single-leg stability muscles",
+          "calves"
+        ],
+        "equipment": "resistance band",
+        "exercise_type": "strength",
+        "duration_per_rep": "explosive drive up, controlled descent",
+        "skateboarding_benefit": "perfects ollie mechanics and develops unilateral explosive power for trick consistency",
+        "json_file": "isolated_foot_banded_hi_knee_pop_ups.json",
+        "video_file": "isolated_foot_banded_hi_knee_pop_ups",
+        "beginner": "10 each side (2 rounds)",
+        "intermediate": "12 each side (2 rounds)",
+        "advanced": "15 each side (3 rounds)"
+      },
+      {
+        "section": "Main",
+        "move": "Jump squats",
+        "description": "Explosive bodyweight squat jumps with overhead reach, building maximum vertical power for skateboarding air",
+        "detailed_description": "This fundamental explosive exercise develops the maximum vertical power essential for high ollies, stair gaps, and transition air. Begin in a squat position with feet hip-width apart, then explosively drive through your heels and jump as high as possible while reaching overhead for maximum height. Land softly in the squat position and immediately prepare for the next repetition. This exercise builds the fast-twitch muscle fibers and explosive coordination needed for powerful skateboard launches and big air maneuvers. The overhead reach component teaches full-body extension and helps develop the complete kinetic chain activation needed for maximum jumping power. Jump squats directly translate to improved ollie height, gap clearing ability, and the explosive power needed for transition skating and vert tricks. The rapid stretch-shortening cycle developed through this exercise improves the reactive strength essential for quick trick execution and powerful board pops. Focus on maximum explosive effort on each jump while maintaining proper landing mechanics to build both power and injury resilience.",
+        "target_muscles": [
+          "quadriceps",
+          "glutes",
+          "calves",
+          "core"
+        ],
+        "equipment": "none",
+        "exercise_type": "strength",
+        "duration_per_rep": "explosive jump with soft landing",
+        "skateboarding_benefit": "maximizes vertical power for high ollies and transition air",
+        "json_file": "jump_squats.json",
+        "video_file": "jump_squats",
+        "beginner": "12 reps (2 rounds)",
+        "intermediate": "15 reps (2 rounds)",
+        "advanced": "15-20 reps (3 rounds)"
+      },
+      {
+        "section": "Main",
+        "move": "Banded crab squat leaps",
+        "description": "Lateral squat jumps with band resistance, mimicking slalom movements for agility and lateral explosive power",
+        "detailed_description": "This advanced lateral power exercise develops the side-to-side explosive strength and agility essential for skateboard carving, obstacle navigation, and complex trick sequences. Begin in a squat position with a resistance band around your thighs, then perform explosive lateral jumps from side to side while maintaining the squat depth throughout the movement. The continuous lateral movement pattern mimics the slalom-like motions used in skateboarding for carving, avoiding obstacles, and maintaining speed through technical sections. The band resistance challenges your hip abductors and glutes while the explosive jumping component builds the reactive strength needed for quick directional changes. This exercise is particularly beneficial for street skating where rapid lateral movements and agility are crucial for navigating technical spots and maintaining flow through complex terrain. The sustained squat position also builds the leg endurance needed for long skating sessions and technical manual sequences. Focus on explosive lateral drive while maintaining consistent squat depth and band tension throughout the entire set.",
+        "target_muscles": [
+          "hip abductors",
+          "glutes",
+          "quadriceps",
+          "core"
+        ],
+        "equipment": "resistance band",
+        "exercise_type": "strength",
+        "duration_per_rep": "explosive lateral jump with squat hold",
+        "skateboarding_benefit": "develops lateral agility and explosive power for carving and obstacle navigation",
+        "json_file": "banded_crab_squat_leaps.json",
+        "video_file": "banded_crab_squat_leaps",
+        "beginner": "15 total jumps (2 rounds)",
+        "intermediate": "18 total jumps (2 rounds)",
+        "advanced": "20 total jumps (3 rounds)"
+      },
+      {
+        "section": "Main",
+        "move": "Single foot explosive calf raises",
+        "description": "Fast, explosive single-leg calf raises developing the precise pop power needed for consistent ollie execution",
+        "detailed_description": "This highly specific exercise targets the explosive calf strength and single-leg stability essential for powerful and consistent skateboard pops. Begin standing on one leg with the option to use a wall or table for light balance assistance, then perform rapid, explosive calf raises focusing on maximum speed and height. The single-leg nature isolates each calf independently, ensuring balanced development and addressing any strength discrepancies that could affect trick consistency. This exercise directly develops the explosive ankle plantar flexion that initiates every ollie and provides the snap needed for flip tricks and technical maneuvers. The fast, repetitive nature builds the muscle firing rate and coordination essential for rapid trick execution and the ability to perform multiple tricks in quick succession. Single-leg training also improves the balance and proprioception needed for single-foot maneuvers and complex balance challenges common in street and transition skating. Focus on explosive upward movement while maintaining balance and control, using minimal assistance from your hands to maximize the balance and strength benefits.",
+        "target_muscles": [
+          "calves",
+          "ankle stabilizers",
+          "single-leg stability muscles"
+        ],
+        "equipment": "wall or table for balance assistance",
+        "exercise_type": "strength",
+        "duration_per_rep": "explosive upward, controlled descent",
+        "skateboarding_benefit": "develops explosive pop power and single-leg stability for consistent trick execution",
+        "json_file": "single_foot_explosive_calf_raises.json",
+        "video_file": "single_foot_explosive_calf_raises",
+        "beginner": "10 each leg (2 rounds)",
+        "intermediate": "12 each leg (2 rounds)",
+        "advanced": "15 each leg (3 rounds)"
+      },
+      {
+        "section": "Main",
+        "move": "Weighted step ups",
+        "description": "Elevated step ups with dumbbells, building single-leg power and strength for powerful push-offs and trick landings",
+        "detailed_description": "This functional strength exercise develops the single-leg power and stability essential for skateboarding push-offs, stair navigation, and powerful trick landings. Begin facing a sturdy elevated surface (box or bench) while holding dumbbells, then step up by driving through the heel of the elevated leg without assistance from the trailing leg. The weighted resistance increases the strength challenge while the elevated surface requires the full range of motion strength needed for powerful skateboarding movements. This exercise directly translates to improved pushing power, the ability to generate speed from a standstill, and the single-leg strength needed for landing tricks on uneven surfaces or obstacles. The step-up pattern also builds the hip extension strength crucial for explosive ollies and the single-leg stability needed for manual tricks and technical balance challenges. The added weight forces the muscles to work harder while maintaining proper movement patterns, building both strength and movement quality. Focus on driving through the heel of the working leg and maintaining control throughout the entire range of motion to maximize the functional strength benefits.",
+        "target_muscles": [
+          "quadriceps",
+          "glutes",
+          "calves",
+          "core"
+        ],
+        "equipment": "dumbbells, box or bench",
+        "exercise_type": "strength",
+        "duration_per_rep": "controlled up, controlled down",
+        "skateboarding_benefit": "builds single-leg power for push-offs and trick landings",
+        "json_file": "weighted_step_ups.json",
+        "video_file": "weighted_step_ups",
+        "beginner": "8 each leg (15 lb weights)",
+        "intermediate": "10 each leg (20 lb weights)",
+        "advanced": "10-20 each leg (30 lb weights)"
+      },
+      {
+        "section": "Main",
+        "move": "Alternating step ups with high knees",
+        "description": "Dynamic step ups with knee drive, building cardiovascular fitness and explosive leg power for sustained skateboarding performance",
+        "detailed_description": "This dynamic cardiovascular exercise combines step-up strength with explosive knee drive, developing both the muscular power and cardiovascular fitness needed for intense skateboarding sessions. Begin facing an elevated surface, then alternate stepping up with each leg while adding an explosive knee drive at the top of each step-up before stepping down. The alternating pattern with high knee component builds the rhythm and coordination essential for complex trick sequences while providing an intense cardiovascular challenge that improves skateboarding endurance. This exercise develops the explosive leg drive needed for consecutive tricks and the cardiovascular fitness required for long skating sessions or competition runs. The high knee drive component specifically targets the hip flexors and core muscles crucial for board manipulation and trick execution. The timed nature of this exercise builds the ability to maintain explosive power output even as fatigue sets in, which is essential for skateboarding where trick execution often occurs at the end of long runs or sessions. Focus on maintaining explosive knee drive and consistent rhythm throughout the time period to maximize both power and cardiovascular benefits.",
+        "target_muscles": [
+          "quadriceps",
+          "hip flexors",
+          "glutes",
+          "cardiovascular system"
+        ],
+        "equipment": "box or bench",
+        "exercise_type": "strength",
+        "duration_per_rep": "30 second intervals",
+        "skateboarding_benefit": "builds cardiovascular fitness and explosive power for sustained high-intensity skating",
+        "json_file": "alternating_step_ups_high_knees.json",
+        "video_file": "alternating_step_ups_high_knees",
+        "beginner": "20 seconds (2 rounds)",
+        "intermediate": "25 seconds (2 rounds)",
+        "advanced": "30 seconds (3 rounds)"
+      },
+      {
+        "section": "Main",
+        "move": "Isometric single foot squat holds",
+        "description": "Single-leg squat holds with assistance, developing unilateral strength and stability for advanced skateboarding balance",
+        "detailed_description": "This challenging isometric exercise develops the single-leg strength and stability essential for advanced skateboarding maneuvers including manuals, single-foot tricks, and complex balance challenges. Begin standing on one leg and lower into a partial squat position, holding this position for the prescribed time while using minimal assistance for balance as needed. The isometric hold builds time under tension strength in the exact muscle activation patterns used during skateboarding, particularly for maintaining deep stances and controlling the board during technical maneuvers. This exercise addresses the unilateral strength demands of skateboarding where each leg must be capable of supporting and controlling body weight independently. The single-leg nature also challenges proprioception and balance reactions that are crucial for skateboard control and injury prevention. The assisted component allows for progressive overload as your strength and balance improve, eventually building to unassisted single-leg squat holds. Focus on maintaining proper squat form and steady breathing while minimizing assistance to maximize the strength and balance benefits.",
+        "target_muscles": [
+          "quadriceps",
+          "glutes",
+          "single-leg stability muscles",
+          "core"
+        ],
+        "equipment": "wall or support for assistance",
+        "exercise_type": "strength",
+        "duration_per_rep": "8-12 second hold",
+        "skateboarding_benefit": "develops single-leg strength and stability for manuals and advanced balance tricks",
+        "json_file": "isometric_single_foot_squat_holds.json",
+        "video_file": "isometric_single_foot_squat_holds",
+        "beginner": "6 reps each leg, 6 sec hold (10 lb assistance)",
+        "intermediate": "8 reps each leg, 8 sec hold (15 lb assistance)",
+        "advanced": "8-12 reps each leg, 10 sec hold (15 lb assistance)"
+      },
+      {
+        "section": "Main",
+        "move": "Mountain climber plank hold with leg kickbacks",
+        "description": "Plank hold with alternating leg extensions, building core endurance and hip strength for board control",
+        "detailed_description": "This core-intensive exercise combines plank stability with dynamic leg movement, developing the core endurance and hip strength essential for maintaining skateboard control during complex maneuvers. Begin in a high plank position with hands directly under shoulders, then alternate lifting each leg straight back behind you while maintaining the strong plank position throughout. The static plank hold challenges core endurance while the leg kickbacks target the glutes and hamstrings crucial for powerful skateboarding movements. This exercise builds the core stability needed to maintain proper posture and control during technical skateboarding sequences where the core must resist rotational forces and maintain spinal alignment. The alternating leg movement also develops the hip extension strength and single-leg stability needed for powerful ollies and the ability to maintain board control during uneven weight distribution. The combination movement improves coordination and the ability to maintain core stability while performing dynamic movements with the extremities. Focus on maintaining perfect plank alignment while performing controlled leg extensions to maximize both core and hip strengthening benefits.",
+        "target_muscles": [
+          "core",
+          "glutes",
+          "shoulders",
+          "hip stabilizers"
+        ],
+        "equipment": "none",
+        "exercise_type": "strength",
+        "duration_per_rep": "controlled leg extension and return",
+        "skateboarding_benefit": "builds core endurance and hip strength for sustained board control during technical maneuvers",
+        "json_file": "mountain_climber_plank_hold_leg_kickbacks.json",
+        "video_file": "mountain_climber_plank_hold_leg_kickbacks",
+        "beginner": "15 total reps (2 rounds)",
+        "intermediate": "18 total reps (2 rounds)",
+        "advanced": "20 total reps (3 rounds)"
+      },
+      {
+        "section": "Main",
+        "move": "Mountain climber burnout",
+        "description": "High-intensity mountain climbers for maximum cardiovascular and core conditioning to finish the session",
+        "detailed_description": "This high-intensity finishing exercise provides maximum cardiovascular challenge while building the core endurance and mental toughness needed for peak skateboarding performance. Begin in a high plank position and perform rapid alternating knee drives toward your chest, maintaining maximum intensity for the prescribed time period. This exercise serves as both a cardiovascular challenge and a mental toughness builder, simulating the high-intensity demands of skateboarding sessions where peak performance must be maintained even under fatigue. The rapid knee drive movement builds the hip flexor strength and firing rate essential for quick trick execution, while the sustained high intensity improves the cardiovascular fitness needed for long skating sessions or competition runs. The mountain climber movement pattern also reinforces the core stability and shoulder strength needed for various skateboarding positions and recovery movements. This burnout exercise teaches your body to maintain explosive power output even as fatigue sets in, which is crucial for skateboarding where the most challenging tricks often come at the end of sessions when fatigue is highest. Focus on maintaining maximum intensity and proper form throughout the entire time period for optimal training adaptation.",
+        "target_muscles": [
+          "core",
+          "hip flexors",
+          "shoulders",
+          "cardiovascular system"
+        ],
+        "equipment": "none",
+        "exercise_type": "strength",
+        "duration_per_rep": "maximum intensity for time",
+        "skateboarding_benefit": "builds peak cardiovascular fitness and mental toughness for high-intensity skateboarding performance",
+        "json_file": "mountain_climber_burnout.json",
+        "video_file": "mountain_climber_burnout",
+        "beginner": "20 seconds all out (1 round)",
+        "intermediate": "25 seconds all out (1 round)",
+        "advanced": "30 seconds all out (1 round)"
+      }
+    ]
+  },
+  {
     "name": "Mobility & Activation",
     "icon": "figure.flexibility",
     "color": "orange",
@@ -329,8 +566,8 @@
         "json_file": "kneeling_ins_and_outs.json",
         "video_file": "kneeling_ins_and_outs",
         "beginner": "10 reps each side (1 round)",
-        "intermediate": "10–12 reps each side (2 rounds)",
-        "advanced": "12–15 reps each side (2 rounds)"
+        "intermediate": "10\u201312 reps each side (2 rounds)",
+        "advanced": "12\u201315 reps each side (2 rounds)"
       },
       {
         "section": "Warm-up",
@@ -349,7 +586,7 @@
         "skateboarding_benefit": "prepares body for rotational movements in tricks and transitions",
         "json_file": "knee_hug_turns.json",
         "video_file": "knee_hug_turns",
-        "beginner": "8–10 reps each side (1 round)",
+        "beginner": "8\u201310 reps each side (1 round)",
         "intermediate": "10 reps each side (2 rounds)",
         "advanced": "12 reps each side (2 rounds)"
       },
@@ -371,8 +608,8 @@
         "json_file": "heel_floor_bridges.json",
         "video_file": "heel_floor_bridges",
         "beginner": "12 reps (1 round)",
-        "intermediate": "12–15 reps (2 rounds)",
-        "advanced": "15–20 reps (2 rounds)"
+        "intermediate": "12\u201315 reps (2 rounds)",
+        "advanced": "15\u201320 reps (2 rounds)"
       },
       {
         "section": "Warm-up",
@@ -391,9 +628,9 @@
         "skateboarding_benefit": "addresses stance imbalances and improves hip mobility for better board control",
         "json_file": "pigeon_bridges.json",
         "video_file": "pigeon_bridges",
-        "beginner": "8–10 reps each side (1 round)",
-        "intermediate": "10–12 reps each side (2 rounds)",
-        "advanced": "12–15 reps each side (2 rounds)"
+        "beginner": "8\u201310 reps each side (1 round)",
+        "intermediate": "10\u201312 reps each side (2 rounds)",
+        "advanced": "12\u201315 reps each side (2 rounds)"
       },
       {
         "section": "Warm-up",
@@ -413,8 +650,8 @@
         "json_file": "banded_glute_bridge_abductors.json",
         "video_file": "banded_glute_bridge_abductors",
         "beginner": "15 reps (1 round)",
-        "intermediate": "15–20 reps (2 rounds)",
-        "advanced": "20–25 reps (2 rounds)"
+        "intermediate": "15\u201320 reps (2 rounds)",
+        "advanced": "20\u201325 reps (2 rounds)"
       },
       {
         "section": "Warm-up",
@@ -454,9 +691,9 @@
         "skateboarding_benefit": "builds single-leg power and stability for manuals and one-footed tricks",
         "json_file": "1_foot_heel_bridges.json",
         "video_file": "1_foot_heel_bridges",
-        "beginner": "8–10 reps each side (1 round)",
-        "intermediate": "10–12 reps each side (2 rounds)",
-        "advanced": "12–15 reps each side (2 rounds)"
+        "beginner": "8\u201310 reps each side (1 round)",
+        "intermediate": "10\u201312 reps each side (2 rounds)",
+        "advanced": "12\u201315 reps each side (2 rounds)"
       }
     ]
   },
@@ -604,9 +841,9 @@
         "skateboarding_benefit": "improves balance during complex movements and trick execution",
         "json_file": "1_foot_balance_weight_press.json",
         "video_file": "1_foot_balance_weight_press",
-        "beginner": "8 reps/side (2×5–10 lb)",
-        "intermediate": "10 reps/side (2×10–15 lb)",
-        "advanced": "12 reps/side (2×15–20 lb)"
+        "beginner": "8 reps/side (2\u00d75\u201310 lb)",
+        "intermediate": "10 reps/side (2\u00d710\u201315 lb)",
+        "advanced": "12 reps/side (2\u00d715\u201320 lb)"
       },
       {
         "section": "Main",
@@ -625,8 +862,8 @@
         "json_file": "kettle_bell_swings.json",
         "video_file": "kettle_bell_swings",
         "beginner": "12 reps (light KB)",
-        "intermediate": "15–20 reps (moderate KB)",
-        "advanced": "20–25 reps (heavier KB)"
+        "intermediate": "15\u201320 reps (moderate KB)",
+        "advanced": "20\u201325 reps (heavier KB)"
       }
     ]
   },
@@ -652,8 +889,8 @@
         "json_file": "side_plank_dips.json",
         "video_file": "side_plank_dips",
         "beginner": "10 reps each side",
-        "intermediate": "12–15 reps each side",
-        "advanced": "15–20 reps each side"
+        "intermediate": "12\u201315 reps each side",
+        "advanced": "15\u201320 reps each side"
       },
       {
         "section": "Main",
@@ -714,7 +951,7 @@
         "video_file": "adductors_with_med_ball",
         "beginner": "15 squeezes (light ball)",
         "intermediate": "20 squeezes (moderate ball)",
-        "advanced": "25–30 squeezes (heavier ball)"
+        "advanced": "25\u201330 squeezes (heavier ball)"
       },
       {
         "section": "Cool-down",
@@ -1096,243 +1333,6 @@
         "beginner": "6 circles each direction/foot",
         "intermediate": "8 circles each direction/foot",
         "advanced": "10 circles each direction/foot"
-      }
-    ]
-  },
-  {
-    "name": "Pop Power",
-    "icon": "bolt.fill",
-    "color": "yellow",
-    "exercises": [
-      {
-        "section": "Warm-up",
-        "move": "Squat + calf raise hold",
-        "description": "Deep squat position with calf raise hold, building foundational power for explosive skateboarding movements",
-        "detailed_description": "This compound exercise combines squat strength with calf endurance, directly targeting the muscles used in ollie pop mechanics. Begin in a squat position with feet hip-width apart, lowering to approximately 90 degrees while maintaining chest up and weight evenly distributed. From this position, rise up onto your toes and hold the calf raise while maintaining the squat depth. This exercise builds the precise muscle coordination and strength needed for explosive skateboard pops, where the calves provide the initial snap while the legs drive the board upward. The sustained hold develops the time under tension strength crucial for powerful ollies and jump tricks. The combination teaches your body to generate force from the ground up, mimicking the exact mechanics of popping a skateboard. Focus on maintaining proper squat form while maximizing the calf raise height to build the explosive power transfer essential for advanced trick progression.",
-        "target_muscles": [
-          "quadriceps",
-          "glutes",
-          "calves",
-          "core"
-        ],
-        "equipment": "none",
-        "exercise_type": "strength",
-        "duration_per_rep": "15 second hold",
-        "skateboarding_benefit": "builds explosive pop power for ollies and technical tricks",
-        "json_file": "squat_calf_raise_hold.json",
-        "video_file": "squat_calf_raise_hold",
-        "beginner": "10 sec hold (2 rounds)",
-        "intermediate": "12 sec hold (2 rounds)",
-        "advanced": "15 sec hold (3 rounds)"
-      },
-      {
-        "section": "Warm-up",
-        "move": "Banded side jumps",
-        "description": "Lateral jumps with resistance band, mimicking the side-to-side popping motion used in skateboard control",
-        "detailed_description": "This dynamic exercise replicates the lateral explosive movements essential for board manipulation and trick execution. Begin with a resistance band around your ankles, then perform explosive side-to-side jumps while maintaining the band tension throughout the movement. The lateral jumping motion directly mimics the weight shift and explosive power needed for skateboard pops, kickflips, and heel flips where you must generate force while maintaining board control. The band resistance adds challenge to both the takeoff and landing phases, building the hip abductor strength and lateral stability crucial for precise board manipulation. This exercise develops the quick directional changes and explosive lateral power that separate advanced skaters from beginners. The movement pattern also improves proprioception and balance reactions essential for catching tricks and maintaining control during complex maneuvers. Focus on explosive takeoffs and controlled landings while maintaining constant band tension to maximize the skateboarding-specific benefits.",
-        "target_muscles": [
-          "hip abductors",
-          "glutes",
-          "calves",
-          "core"
-        ],
-        "equipment": "resistance band",
-        "exercise_type": "strength",
-        "duration_per_rep": "explosive jump with controlled landing",
-        "skateboarding_benefit": "develops lateral explosive power for trick execution and board manipulation",
-        "json_file": "banded_side_jumps.json",
-        "video_file": "banded_side_jumps",
-        "beginner": "15 total jumps (2 rounds)",
-        "intermediate": "18 total jumps (2 rounds)",
-        "advanced": "20 total jumps (3 rounds)"
-      },
-      {
-        "section": "Main",
-        "move": "Isolated foot banded hi-knee pop-ups",
-        "description": "Single-leg knee drive with band resistance, directly replicating the ollie motion and developing unilateral explosive power",
-        "detailed_description": "This highly specific exercise isolates the exact movement pattern and muscle activation sequence used in ollie execution. Begin standing with a resistance band around your feet, then explosively drive one knee upward to hip height while the opposite leg provides stability and fights against the band resistance. The movement precisely replicates the knee drive component of an ollie while building the hip flexor strength and single-leg stability essential for board control. This exercise is crucial for developing the unilateral power and coordination needed for consistent trick execution, as most skateboarding tricks require asymmetrical muscle activation and precise timing between both legs. The band resistance challenges both the lifting and lowering phases while improving the rapid muscle firing patterns essential for quick trick execution. The isolated nature allows you to focus on perfecting the movement quality and power output of each leg independently, addressing any strength imbalances that could affect trick consistency. Focus on explosive upward drive followed by controlled descent to maximize both power and control development.",
-        "target_muscles": [
-          "hip flexors",
-          "core",
-          "single-leg stability muscles",
-          "calves"
-        ],
-        "equipment": "resistance band",
-        "exercise_type": "strength",
-        "duration_per_rep": "explosive drive up, controlled descent",
-        "skateboarding_benefit": "perfects ollie mechanics and develops unilateral explosive power for trick consistency",
-        "json_file": "isolated_foot_banded_hi_knee_pop_ups.json",
-        "video_file": "isolated_foot_banded_hi_knee_pop_ups",
-        "beginner": "10 each side (2 rounds)",
-        "intermediate": "12 each side (2 rounds)",
-        "advanced": "15 each side (3 rounds)"
-      },
-      {
-        "section": "Main",
-        "move": "Jump squats",
-        "description": "Explosive bodyweight squat jumps with overhead reach, building maximum vertical power for skateboarding air",
-        "detailed_description": "This fundamental explosive exercise develops the maximum vertical power essential for high ollies, stair gaps, and transition air. Begin in a squat position with feet hip-width apart, then explosively drive through your heels and jump as high as possible while reaching overhead for maximum height. Land softly in the squat position and immediately prepare for the next repetition. This exercise builds the fast-twitch muscle fibers and explosive coordination needed for powerful skateboard launches and big air maneuvers. The overhead reach component teaches full-body extension and helps develop the complete kinetic chain activation needed for maximum jumping power. Jump squats directly translate to improved ollie height, gap clearing ability, and the explosive power needed for transition skating and vert tricks. The rapid stretch-shortening cycle developed through this exercise improves the reactive strength essential for quick trick execution and powerful board pops. Focus on maximum explosive effort on each jump while maintaining proper landing mechanics to build both power and injury resilience.",
-        "target_muscles": [
-          "quadriceps",
-          "glutes",
-          "calves",
-          "core"
-        ],
-        "equipment": "none",
-        "exercise_type": "strength",
-        "duration_per_rep": "explosive jump with soft landing",
-        "skateboarding_benefit": "maximizes vertical power for high ollies and transition air",
-        "json_file": "jump_squats.json",
-        "video_file": "jump_squats",
-        "beginner": "12 reps (2 rounds)",
-        "intermediate": "15 reps (2 rounds)",
-        "advanced": "15-20 reps (3 rounds)"
-      },
-      {
-        "section": "Main",
-        "move": "Banded crab squat leaps",
-        "description": "Lateral squat jumps with band resistance, mimicking slalom movements for agility and lateral explosive power",
-        "detailed_description": "This advanced lateral power exercise develops the side-to-side explosive strength and agility essential for skateboard carving, obstacle navigation, and complex trick sequences. Begin in a squat position with a resistance band around your thighs, then perform explosive lateral jumps from side to side while maintaining the squat depth throughout the movement. The continuous lateral movement pattern mimics the slalom-like motions used in skateboarding for carving, avoiding obstacles, and maintaining speed through technical sections. The band resistance challenges your hip abductors and glutes while the explosive jumping component builds the reactive strength needed for quick directional changes. This exercise is particularly beneficial for street skating where rapid lateral movements and agility are crucial for navigating technical spots and maintaining flow through complex terrain. The sustained squat position also builds the leg endurance needed for long skating sessions and technical manual sequences. Focus on explosive lateral drive while maintaining consistent squat depth and band tension throughout the entire set.",
-        "target_muscles": [
-          "hip abductors",
-          "glutes",
-          "quadriceps",
-          "core"
-        ],
-        "equipment": "resistance band",
-        "exercise_type": "strength",
-        "duration_per_rep": "explosive lateral jump with squat hold",
-        "skateboarding_benefit": "develops lateral agility and explosive power for carving and obstacle navigation",
-        "json_file": "banded_crab_squat_leaps.json",
-        "video_file": "banded_crab_squat_leaps",
-        "beginner": "15 total jumps (2 rounds)",
-        "intermediate": "18 total jumps (2 rounds)",
-        "advanced": "20 total jumps (3 rounds)"
-      },
-      {
-        "section": "Main",
-        "move": "Single foot explosive calf raises",
-        "description": "Fast, explosive single-leg calf raises developing the precise pop power needed for consistent ollie execution",
-        "detailed_description": "This highly specific exercise targets the explosive calf strength and single-leg stability essential for powerful and consistent skateboard pops. Begin standing on one leg with the option to use a wall or table for light balance assistance, then perform rapid, explosive calf raises focusing on maximum speed and height. The single-leg nature isolates each calf independently, ensuring balanced development and addressing any strength discrepancies that could affect trick consistency. This exercise directly develops the explosive ankle plantar flexion that initiates every ollie and provides the snap needed for flip tricks and technical maneuvers. The fast, repetitive nature builds the muscle firing rate and coordination essential for rapid trick execution and the ability to perform multiple tricks in quick succession. Single-leg training also improves the balance and proprioception needed for single-foot maneuvers and complex balance challenges common in street and transition skating. Focus on explosive upward movement while maintaining balance and control, using minimal assistance from your hands to maximize the balance and strength benefits.",
-        "target_muscles": [
-          "calves",
-          "ankle stabilizers",
-          "single-leg stability muscles"
-        ],
-        "equipment": "wall or table for balance assistance",
-        "exercise_type": "strength",
-        "duration_per_rep": "explosive upward, controlled descent",
-        "skateboarding_benefit": "develops explosive pop power and single-leg stability for consistent trick execution",
-        "json_file": "single_foot_explosive_calf_raises.json",
-        "video_file": "single_foot_explosive_calf_raises",
-        "beginner": "10 each leg (2 rounds)",
-        "intermediate": "12 each leg (2 rounds)",
-        "advanced": "15 each leg (3 rounds)"
-      },
-      {
-        "section": "Main",
-        "move": "Weighted step ups",
-        "description": "Elevated step ups with dumbbells, building single-leg power and strength for powerful push-offs and trick landings",
-        "detailed_description": "This functional strength exercise develops the single-leg power and stability essential for skateboarding push-offs, stair navigation, and powerful trick landings. Begin facing a sturdy elevated surface (box or bench) while holding dumbbells, then step up by driving through the heel of the elevated leg without assistance from the trailing leg. The weighted resistance increases the strength challenge while the elevated surface requires the full range of motion strength needed for powerful skateboarding movements. This exercise directly translates to improved pushing power, the ability to generate speed from a standstill, and the single-leg strength needed for landing tricks on uneven surfaces or obstacles. The step-up pattern also builds the hip extension strength crucial for explosive ollies and the single-leg stability needed for manual tricks and technical balance challenges. The added weight forces the muscles to work harder while maintaining proper movement patterns, building both strength and movement quality. Focus on driving through the heel of the working leg and maintaining control throughout the entire range of motion to maximize the functional strength benefits.",
-        "target_muscles": [
-          "quadriceps",
-          "glutes",
-          "calves",
-          "core"
-        ],
-        "equipment": "dumbbells, box or bench",
-        "exercise_type": "strength",
-        "duration_per_rep": "controlled up, controlled down",
-        "skateboarding_benefit": "builds single-leg power for push-offs and trick landings",
-        "json_file": "weighted_step_ups.json",
-        "video_file": "weighted_step_ups",
-        "beginner": "8 each leg (15 lb weights)",
-        "intermediate": "10 each leg (20 lb weights)",
-        "advanced": "10-20 each leg (30 lb weights)"
-      },
-      {
-        "section": "Main",
-        "move": "Alternating step ups with high knees",
-        "description": "Dynamic step ups with knee drive, building cardiovascular fitness and explosive leg power for sustained skateboarding performance",
-        "detailed_description": "This dynamic cardiovascular exercise combines step-up strength with explosive knee drive, developing both the muscular power and cardiovascular fitness needed for intense skateboarding sessions. Begin facing an elevated surface, then alternate stepping up with each leg while adding an explosive knee drive at the top of each step-up before stepping down. The alternating pattern with high knee component builds the rhythm and coordination essential for complex trick sequences while providing an intense cardiovascular challenge that improves skateboarding endurance. This exercise develops the explosive leg drive needed for consecutive tricks and the cardiovascular fitness required for long skating sessions or competition runs. The high knee drive component specifically targets the hip flexors and core muscles crucial for board manipulation and trick execution. The timed nature of this exercise builds the ability to maintain explosive power output even as fatigue sets in, which is essential for skateboarding where trick execution often occurs at the end of long runs or sessions. Focus on maintaining explosive knee drive and consistent rhythm throughout the time period to maximize both power and cardiovascular benefits.",
-        "target_muscles": [
-          "quadriceps",
-          "hip flexors",
-          "glutes",
-          "cardiovascular system"
-        ],
-        "equipment": "box or bench",
-        "exercise_type": "strength",
-        "duration_per_rep": "30 second intervals",
-        "skateboarding_benefit": "builds cardiovascular fitness and explosive power for sustained high-intensity skating",
-        "json_file": "alternating_step_ups_high_knees.json",
-        "video_file": "alternating_step_ups_high_knees",
-        "beginner": "20 seconds (2 rounds)",
-        "intermediate": "25 seconds (2 rounds)",
-        "advanced": "30 seconds (3 rounds)"
-      },
-      {
-        "section": "Main",
-        "move": "Isometric single foot squat holds",
-        "description": "Single-leg squat holds with assistance, developing unilateral strength and stability for advanced skateboarding balance",
-        "detailed_description": "This challenging isometric exercise develops the single-leg strength and stability essential for advanced skateboarding maneuvers including manuals, single-foot tricks, and complex balance challenges. Begin standing on one leg and lower into a partial squat position, holding this position for the prescribed time while using minimal assistance for balance as needed. The isometric hold builds time under tension strength in the exact muscle activation patterns used during skateboarding, particularly for maintaining deep stances and controlling the board during technical maneuvers. This exercise addresses the unilateral strength demands of skateboarding where each leg must be capable of supporting and controlling body weight independently. The single-leg nature also challenges proprioception and balance reactions that are crucial for skateboard control and injury prevention. The assisted component allows for progressive overload as your strength and balance improve, eventually building to unassisted single-leg squat holds. Focus on maintaining proper squat form and steady breathing while minimizing assistance to maximize the strength and balance benefits.",
-        "target_muscles": [
-          "quadriceps",
-          "glutes",
-          "single-leg stability muscles",
-          "core"
-        ],
-        "equipment": "wall or support for assistance",
-        "exercise_type": "strength",
-        "duration_per_rep": "8-12 second hold",
-        "skateboarding_benefit": "develops single-leg strength and stability for manuals and advanced balance tricks",
-        "json_file": "isometric_single_foot_squat_holds.json",
-        "video_file": "isometric_single_foot_squat_holds",
-        "beginner": "6 reps each leg, 6 sec hold (10 lb assistance)",
-        "intermediate": "8 reps each leg, 8 sec hold (15 lb assistance)",
-        "advanced": "8-12 reps each leg, 10 sec hold (15 lb assistance)"
-      },
-      {
-        "section": "Main",
-        "move": "Mountain climber plank hold with leg kickbacks",
-        "description": "Plank hold with alternating leg extensions, building core endurance and hip strength for board control",
-        "detailed_description": "This core-intensive exercise combines plank stability with dynamic leg movement, developing the core endurance and hip strength essential for maintaining skateboard control during complex maneuvers. Begin in a high plank position with hands directly under shoulders, then alternate lifting each leg straight back behind you while maintaining the strong plank position throughout. The static plank hold challenges core endurance while the leg kickbacks target the glutes and hamstrings crucial for powerful skateboarding movements. This exercise builds the core stability needed to maintain proper posture and control during technical skateboarding sequences where the core must resist rotational forces and maintain spinal alignment. The alternating leg movement also develops the hip extension strength and single-leg stability needed for powerful ollies and the ability to maintain board control during uneven weight distribution. The combination movement improves coordination and the ability to maintain core stability while performing dynamic movements with the extremities. Focus on maintaining perfect plank alignment while performing controlled leg extensions to maximize both core and hip strengthening benefits.",
-        "target_muscles": [
-          "core",
-          "glutes",
-          "shoulders",
-          "hip stabilizers"
-        ],
-        "equipment": "none",
-        "exercise_type": "strength",
-        "duration_per_rep": "controlled leg extension and return",
-        "skateboarding_benefit": "builds core endurance and hip strength for sustained board control during technical maneuvers",
-        "json_file": "mountain_climber_plank_hold_leg_kickbacks.json",
-        "video_file": "mountain_climber_plank_hold_leg_kickbacks",
-        "beginner": "15 total reps (2 rounds)",
-        "intermediate": "18 total reps (2 rounds)",
-        "advanced": "20 total reps (3 rounds)"
-      },
-      {
-        "section": "Main",
-        "move": "Mountain climber burnout",
-        "description": "High-intensity mountain climbers for maximum cardiovascular and core conditioning to finish the session",
-        "detailed_description": "This high-intensity finishing exercise provides maximum cardiovascular challenge while building the core endurance and mental toughness needed for peak skateboarding performance. Begin in a high plank position and perform rapid alternating knee drives toward your chest, maintaining maximum intensity for the prescribed time period. This exercise serves as both a cardiovascular challenge and a mental toughness builder, simulating the high-intensity demands of skateboarding sessions where peak performance must be maintained even under fatigue. The rapid knee drive movement builds the hip flexor strength and firing rate essential for quick trick execution, while the sustained high intensity improves the cardiovascular fitness needed for long skating sessions or competition runs. The mountain climber movement pattern also reinforces the core stability and shoulder strength needed for various skateboarding positions and recovery movements. This burnout exercise teaches your body to maintain explosive power output even as fatigue sets in, which is crucial for skateboarding where the most challenging tricks often come at the end of sessions when fatigue is highest. Focus on maintaining maximum intensity and proper form throughout the entire time period for optimal training adaptation.",
-        "target_muscles": [
-          "core",
-          "hip flexors",
-          "shoulders",
-          "cardiovascular system"
-        ],
-        "equipment": "none",
-        "exercise_type": "strength",
-        "duration_per_rep": "maximum intensity for time",
-        "skateboarding_benefit": "builds peak cardiovascular fitness and mental toughness for high-intensity skateboarding performance",
-        "json_file": "mountain_climber_burnout.json",
-        "video_file": "mountain_climber_burnout",
-        "beginner": "20 seconds all out (1 round)",
-        "intermediate": "25 seconds all out (1 round)",
-        "advanced": "30 seconds all out (1 round)"
       }
     ]
   }
